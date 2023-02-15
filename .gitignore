@@ -1,0 +1,9 @@
+# List of untracked files to ignore
+*.asv
+.vscode/
+_build
+.ipynb_checkpoints
+docs/src/examples/**/*.m
+resources/
+*.prj
+*.txt
